@@ -1,6 +1,6 @@
 local data = {}
 
-for i = 1, #array do
+for i = 1, #data do
   return data[i]
 end
 
