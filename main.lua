@@ -8,3 +8,4 @@ function storeData()
   local dataToStore = 1
   table.insert(data, dataToStore)
 end
+
